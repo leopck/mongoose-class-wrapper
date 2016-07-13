@@ -1,0 +1,21 @@
+{
+  "name": "moncl",
+  "version": "1.0.0",
+  "description": "simple class wrapper for mongoose node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moncl",
+    "mongoose",
+    "class",
+    "nodejs"
+  ],
+  "author": "Stanley Phoong Cheong Kwan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4"
+  }
+}
