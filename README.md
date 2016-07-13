@@ -7,14 +7,14 @@ I wanted to initialize all the schema, models, connections, insertion and findin
 
 ##Usage:
 
-1. git clone this repo
-2. npm install
-3. go to Step 4 below
+1.git clone this repo
+2.npm install
+3.go to Step 4 below
 
-1. Download this git as .zip
-2. Extract it
-3. Copy models/moncl.js and paste into your desired project folder
-4. Copy this lines
+1.Download this git as .zip
+2.Extract it
+3.Copy models/moncl.js and paste into your desired project folder
+4.Copy this lines
 ```
 var moncl = require('./models/moncl');
 obj = new moncl("mongodb://localhost/whateveryouwant");    <--------- Change this
